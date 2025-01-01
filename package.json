@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "index.js": "^0.0.3",
+    "inquirer": "^12.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
